@@ -20,4 +20,4 @@ How can you reach me out? Here you have some examples:
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/manueldevjour)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/manuel-cerezo/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/manueldevjour)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='40'>](https://codepen.io/manueldevjour_)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://manuelcerezo.dev/)  
 
-:email: If any of them are of your interest, write me at manueldevjour@gmail.com or hola@manuelcerezo.dev
+:email: If none of them are of your interest, email me at manueldevjour@gmail.com or hola@manuelcerezo.dev
