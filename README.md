@@ -24,14 +24,15 @@
 
 [![Github follow follow](https://img.shields.io/github/followers/manueldevjour?label=Follow&style=social)](https://www.github.com/manueldevjour)
 [![Twitter follow](https://img.shields.io/twitter/follow/manueldevjour?style=social)](https://www.twitter.com/manueldevjour)
-[![Commits Badge](https://badges.pufler.dev/commits/monthly/manueldevjour)](https://badges.pufler.dev)
+
+:email: If none of them are of your interest, email me at manueldevjour@gmail.com
 
 <br>
+
 ### My recent activity ✨
 
 <!--START_SECTION:activity-->
 
-:email: If none of them are of your interest, email me at manueldevjour@gmail.com
 
 <br>
 
@@ -40,6 +41,8 @@
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=l2hjtmfgr46nndlics4e1onjo&cover_image=true&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=l2hjtmfgr46nndlics4e1onjo&redirect=true)
 
 ### Me 🕶
+
+[![Commits Badge](https://badges.pufler.dev/commits/monthly/manueldevjour)](https://badges.pufler.dev)
 
 <!--START_SECTION:waka-->
 
