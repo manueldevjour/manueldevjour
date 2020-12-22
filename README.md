@@ -16,17 +16,9 @@
 
 ### **Technologies I work with:**
 
-<br>
-<img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
-<img src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white"/>
-<img src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
-<img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/nestjs%20-%23E0234E.svg?&style=for-the-badge&logo=nestjs&logoColor=white" />
+<img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/><img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/><img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/><img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/><img src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white"/><img src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/><img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/><img src="https://img.shields.io/badge/nestjs%20-%23E0234E.svg?&style=for-the-badge&logo=nestjs&logoColor=white" />
 
-<br><br>
+<br>
 
 **How can you reach me out? Here you have some examples:**
 
@@ -34,21 +26,14 @@
 [![Twitter follow](https://img.shields.io/twitter/follow/manueldevjour?style=social)](https://www.twitter.com/manueldevjour)
 [![Commits Badge](https://badges.pufler.dev/commits/monthly/manueldevjour)](https://badges.pufler.dev)
 
-<br><br>
+<br>
 ### My recent activity ✨
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#148](https://github.com/anmol098/waka-readme-stats/issues/148) in [anmol098/waka-readme-stats](https://github.com/anmol098/waka-readme-stats)
-2. 🎉 Merged PR [#18](https://github.com/manueldevjour/portfolio/pull/18) in [manueldevjour/portfolio](https://github.com/manueldevjour/portfolio)
-3. 🎉 Merged PR [#16](https://github.com/manueldevjour/portfolio/pull/16) in [manueldevjour/portfolio](https://github.com/manueldevjour/portfolio)
-4. 🎉 Merged PR [#14](https://github.com/manueldevjour/portfolio/pull/14) in [manueldevjour/portfolio](https://github.com/manueldevjour/portfolio)
-5. 🎉 Merged PR [#13](https://github.com/manueldevjour/portfolio/pull/13) in [manueldevjour/portfolio](https://github.com/manueldevjour/portfolio)
-<!--END_SECTION:activity-->
-
 
 :email: If none of them are of your interest, email me at manueldevjour@gmail.com
 
-<br><br>
+<br>
 
 <h3 style="color:#1DB954; font-weight: bold;">My Spotify</h3>
 
