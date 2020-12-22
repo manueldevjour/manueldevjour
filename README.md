@@ -19,6 +19,12 @@ How can you reach me out? Here you have some examples:
 
 
 <!--START_SECTION:activity-->
+1. 🎉 Merged PR [#18](https://github.com/manueldevjour/portfolio/pull/18) in [manueldevjour/portfolio](https://github.com/manueldevjour/portfolio)
+2. 🎉 Merged PR [#16](https://github.com/manueldevjour/portfolio/pull/16) in [manueldevjour/portfolio](https://github.com/manueldevjour/portfolio)
+3. 🎉 Merged PR [#14](https://github.com/manueldevjour/portfolio/pull/14) in [manueldevjour/portfolio](https://github.com/manueldevjour/portfolio)
+4. 🎉 Merged PR [#13](https://github.com/manueldevjour/portfolio/pull/13) in [manueldevjour/portfolio](https://github.com/manueldevjour/portfolio)
+5. 🎉 Merged PR [#12](https://github.com/manueldevjour/portfolio/pull/12) in [manueldevjour/portfolio](https://github.com/manueldevjour/portfolio)
+<!--END_SECTION:activity-->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manueldevjour&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
