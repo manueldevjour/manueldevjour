@@ -23,5 +23,4 @@ How can you reach me out? Here you have some examples:
 My metrics:
 
 <!--START_SECTION:waka-->
-
 <!--END_SECTION:waka-->
