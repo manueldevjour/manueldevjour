@@ -33,10 +33,10 @@
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#14](https://github.com/OSWeekends/request-for-talks/issues/14) in [OSWeekends/request-for-talks](https://github.com/OSWeekends/request-for-talks)
-2. ❗️ Opened issue [#148](https://github.com/anmol098/waka-readme-stats/issues/148) in [anmol098/waka-readme-stats](https://github.com/anmol098/waka-readme-stats)
-3. 🎉 Merged PR [#18](https://github.com/manueldevjour/portfolio/pull/18) in [manueldevjour/portfolio](https://github.com/manueldevjour/portfolio)
-4. 🎉 Merged PR [#16](https://github.com/manueldevjour/portfolio/pull/16) in [manueldevjour/portfolio](https://github.com/manueldevjour/portfolio)
-5. 🎉 Merged PR [#14](https://github.com/manueldevjour/portfolio/pull/14) in [manueldevjour/portfolio](https://github.com/manueldevjour/portfolio)
+2. 🗣 Commented on [#14](https://github.com/OSWeekends/request-for-talks/issues/14) in [OSWeekends/request-for-talks](https://github.com/OSWeekends/request-for-talks)
+3. ❗️ Opened issue [#148](https://github.com/anmol098/waka-readme-stats/issues/148) in [anmol098/waka-readme-stats](https://github.com/anmol098/waka-readme-stats)
+4. 🎉 Merged PR [#18](https://github.com/manueldevjour/portfolio/pull/18) in [manueldevjour/portfolio](https://github.com/manueldevjour/portfolio)
+5. 🎉 Merged PR [#16](https://github.com/manueldevjour/portfolio/pull/16) in [manueldevjour/portfolio](https://github.com/manueldevjour/portfolio)
 <!--END_SECTION:activity-->
 
 
