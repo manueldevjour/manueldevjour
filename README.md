@@ -32,11 +32,11 @@
 ### My recent activity ✨
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#19](https://github.com/manueldevjour/COVID19-vue/pull/19) in [manueldevjour/COVID19-vue](https://github.com/manueldevjour/COVID19-vue)
-2. 🎉 Merged PR [#18](https://github.com/manueldevjour/COVID19-vue/pull/18) in [manueldevjour/COVID19-vue](https://github.com/manueldevjour/COVID19-vue)
-3. 🎉 Merged PR [#13](https://github.com/manueldevjour/COVID19-vue/pull/13) in [manueldevjour/COVID19-vue](https://github.com/manueldevjour/COVID19-vue)
-4. 🎉 Merged PR [#48](https://github.com/manueldevjour/COVID19-vue/pull/48) in [manueldevjour/COVID19-vue](https://github.com/manueldevjour/COVID19-vue)
-5. 🗣 Commented on [#14](https://github.com/OSWeekends/request-for-talks/issues/14) in [OSWeekends/request-for-talks](https://github.com/OSWeekends/request-for-talks)
+1. 💪 Opened PR [#1](https://github.com/manueldevjour/employees-crud/pull/1) in [manueldevjour/employees-crud](https://github.com/manueldevjour/employees-crud)
+2. 🎉 Merged PR [#19](https://github.com/manueldevjour/COVID19-vue/pull/19) in [manueldevjour/COVID19-vue](https://github.com/manueldevjour/COVID19-vue)
+3. 🎉 Merged PR [#18](https://github.com/manueldevjour/COVID19-vue/pull/18) in [manueldevjour/COVID19-vue](https://github.com/manueldevjour/COVID19-vue)
+4. 🎉 Merged PR [#13](https://github.com/manueldevjour/COVID19-vue/pull/13) in [manueldevjour/COVID19-vue](https://github.com/manueldevjour/COVID19-vue)
+5. 🎉 Merged PR [#48](https://github.com/manueldevjour/COVID19-vue/pull/48) in [manueldevjour/COVID19-vue](https://github.com/manueldevjour/COVID19-vue)
 <!--END_SECTION:activity-->
 
 
