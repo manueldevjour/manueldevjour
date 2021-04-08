@@ -46,11 +46,4 @@
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=l2hjtmfgr46nndlics4e1onjo&cover_image=true&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=l2hjtmfgr46nndlics4e1onjo&redirect=true)
 
-### Me 🕶
-
-[![Commits Badge](https://badges.pufler.dev/commits/monthly/manueldevjour)](https://badges.pufler.dev)
-
-<!--START_SECTION:waka-->
-
-
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=manueldevjour&show_icons=true&theme=dracula)
