@@ -3,7 +3,7 @@
 
 - 😎 I'm a 24yo guy from Spain.
 
-- 🔭 Currently working in **[Madrid](https://www.comunidad.madrid/sites/default/files/styles/aspect_ratio_16_9_tablet/public/img/lugares/shutterstock_766723159_2.jpg?itok=lMYBmpkh&timestamp=1543585323)** as a Frontender
+- 🔭 Currently working in **Seville** as a remote Frontender
 
 - 🌱 I'm improving my skills on JavaScript and some of it's frameworks, such as React and Vue.
 
