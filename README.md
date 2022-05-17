@@ -1,11 +1,11 @@
 <img src="https://github.com/manueldevjour/manueldevjour/blob/master/header.png?raw=true">
 
 
-- 😎 I'm a 24yo guy from Spain.
+- 😎 I'm a 25yo guy from Spain.
 
-- 🔭 Currently working in **Seville** as a remote Frontender
+- 🔭 Currently working in **Barcelona** as a Frontender
 
-- 🌱 I'm improving my skills on JavaScript and some of it's frameworks, such as React and Vue.
+- 🌱 I'm improving my skills on JavaScript and some of it's frameworks, such as React.
 
 - 😄 Pronouns: he/him.
 
