@@ -15,7 +15,6 @@
 **How can you reach me out? Here you have some examples:**
 
 [![Github follow follow](https://img.shields.io/github/followers/manueldevjour?label=Follow&style=social)](https://www.github.com/manueldevjour)
-[![Twitter follow](https://img.shields.io/twitter/follow/manueldevjour?style=social)](https://www.twitter.com/manueldevjour)
 
 :email: If none of them are of your interest, email me at manueldevjour@gmail.com
 
@@ -41,9 +40,5 @@
 
 
 <br>
-
-<h3 style="color:#1DB954; font-weight: bold;">My Spotify</h3>
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=l2hjtmfgr46nndlics4e1onjo&cover_image=true&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=l2hjtmfgr46nndlics4e1onjo&redirect=true)
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=manueldevjour&show_icons=true&theme=dracula)
