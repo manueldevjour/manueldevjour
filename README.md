@@ -1,7 +1,7 @@
 <img src="https://github.com/manueldevjour/manueldevjour/blob/master/header.png?raw=true">
 
 
-- 😎 I'm a 25yo guy from Spain.
+- 😎 I'm a 26yo guy from Spain.
 
 - 🔭 Currently working in **Barcelona** as a Frontender
 
