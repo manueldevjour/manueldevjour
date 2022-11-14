@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on frontend projects, so if you need help and think that I'm your guy, hit me up. 👇🏻
 
-Visit my web [https://manuelcerezo.vercel.app/](here)
+Visit my web [here]([here](https://manuelcerezo.vercel.app/))
 
 **How can you reach me out? Here you have some examples:**
 
