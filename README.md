@@ -13,6 +13,10 @@
 
 Visit my web [here](https://manuelcerezo.vercel.app/)
 
+<br>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manueldevjour&layout=compact&langs_count=10&theme=synthwave)](https://github.com/manueldevjour/github-readme-stats)
+
 **How can you reach me out? Here you have some examples:**
 
 [![Github follow follow](https://img.shields.io/github/followers/manueldevjour?label=Follow&style=social)](https://www.github.com/manueldevjour)
@@ -41,5 +45,3 @@ Visit my web [here](https://manuelcerezo.vercel.app/)
 
 
 <br>
-
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=manueldevjour&show_icons=true&theme=dracula)
