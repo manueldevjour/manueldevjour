@@ -20,8 +20,8 @@
 ### My recent activity ✨
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/manueldevjour/employees-crud/pull/1) in [manueldevjour/employees-crud](https://github.com/manueldevjour/employees-crud)
-2. 🎉 Merged PR [#19](https://github.com/manueldevjour/COVID19-vue/pull/19) in [manueldevjour/COVID19-vue](https://github.com/manueldevjour/COVID19-vue)
+1. 🗣 Commented on [#6](https://github.com/Devographics/locale-es-ES/issues/6) in [Devographics/locale-es-ES](https://github.com/Devographics/locale-es-ES)
+2. 💪 Opened PR [#6](https://github.com/Devographics/locale-es-ES/pull/6) in [Devographics/locale-es-ES](https://github.com/Devographics/locale-es-ES)
 3. 🎉 Merged PR [#18](https://github.com/manueldevjour/COVID19-vue/pull/18) in [manueldevjour/COVID19-vue](https://github.com/manueldevjour/COVID19-vue)
 4. 🎉 Merged PR [#13](https://github.com/manueldevjour/COVID19-vue/pull/13) in [manueldevjour/COVID19-vue](https://github.com/manueldevjour/COVID19-vue)
 5. 🎉 Merged PR [#48](https://github.com/manueldevjour/COVID19-vue/pull/48) in [manueldevjour/COVID19-vue](https://github.com/manueldevjour/COVID19-vue)
