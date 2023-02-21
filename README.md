@@ -1,5 +1,4 @@
-<img src="https://github.com/manueldevjour/manueldevjour/blob/master/header.png?raw=true">
-
+## Hello, it's Manuel!
 
 - 😎 I'm a 26yo guy from Spain.
 
