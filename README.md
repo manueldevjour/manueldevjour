@@ -12,11 +12,7 @@
 
 <br>
 
-🚨 Web in construction 🚨
-
-<br>
-
-### My recent activity ✨
+## My recent activity ✨
 
 <!--START_SECTION:activity-->
 1. 🎉 Merged PR [#6](https://github.com/Devographics/locale-es-ES/pull/6) in [Devographics/locale-es-ES](https://github.com/Devographics/locale-es-ES)
@@ -26,5 +22,10 @@
 5. 🎉 Merged PR [#2](https://github.com/manueldevjour/github-activity-readme/pull/2) in [manueldevjour/github-activity-readme](https://github.com/manueldevjour/github-activity-readme)
 <!--END_SECTION:activity-->
 
+<br>
+
+## Metrics
+
+![Metrics](./github-metrics.svg)
 
 <br>
