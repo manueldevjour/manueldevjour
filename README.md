@@ -1,4 +1,4 @@
-## Hello, it's Manuel!
+<h1 align='center'>Hi, I'm Manuel Cerezo</h1>
 
 - 😎 I'm a 26yo guy from Spain.
 
