@@ -15,11 +15,11 @@
 ## My recent activity ✨
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/manueldevjour/manuelcerezo.com/pull/1) in [manueldevjour/manuelcerezo.com](https://github.com/manueldevjour/manuelcerezo.com)
-2. 💪 Opened PR [#1](https://github.com/manueldevjour/manuelcerezo.com/pull/1) in [manueldevjour/manuelcerezo.com](https://github.com/manueldevjour/manuelcerezo.com)
-3. 🎉 Merged PR [#6](https://github.com/Devographics/locale-es-ES/pull/6) in [Devographics/locale-es-ES](https://github.com/Devographics/locale-es-ES)
-4. 💪 Opened PR [#208](https://github.com/Devographics/Monorepo/pull/208) in [Devographics/Monorepo](https://github.com/Devographics/Monorepo)
-5. 🎉 Merged PR [#3](https://github.com/manueldevjour/github-activity-readme/pull/3) in [manueldevjour/github-activity-readme](https://github.com/manueldevjour/github-activity-readme)
+1. 🗣 Commented on [#1](https://github.com/manueldevjour/cra-template-manueldevjour/issues/1) in [manueldevjour/cra-template-manueldevjour](https://github.com/manueldevjour/cra-template-manueldevjour)
+2. ❗️ Opened issue [#1](https://github.com/manueldevjour/cra-template-manueldevjour/issues/1) in [manueldevjour/cra-template-manueldevjour](https://github.com/manueldevjour/cra-template-manueldevjour)
+3. 🎉 Merged PR [#1](https://github.com/manueldevjour/manuelcerezo.com/pull/1) in [manueldevjour/manuelcerezo.com](https://github.com/manueldevjour/manuelcerezo.com)
+4. 💪 Opened PR [#1](https://github.com/manueldevjour/manuelcerezo.com/pull/1) in [manueldevjour/manuelcerezo.com](https://github.com/manueldevjour/manuelcerezo.com)
+5. 🎉 Merged PR [#6](https://github.com/Devographics/locale-es-ES/pull/6) in [Devographics/locale-es-ES](https://github.com/Devographics/locale-es-ES)
 <!--END_SECTION:activity-->
 
 <br>
