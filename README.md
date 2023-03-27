@@ -12,18 +12,6 @@
 
 <br>
 
-## My recent activity ✨
-
-<!--START_SECTION:activity-->
-1. ❗️ Opened issue [#2](https://github.com/manueldevjour/manuelcerezo.com/issues/2) in [manueldevjour/manuelcerezo.com](https://github.com/manueldevjour/manuelcerezo.com)
-2. 🗣 Commented on [#1](https://github.com/manueldevjour/cra-template-manueldevjour/issues/1) in [manueldevjour/cra-template-manueldevjour](https://github.com/manueldevjour/cra-template-manueldevjour)
-3. ❗️ Opened issue [#1](https://github.com/manueldevjour/cra-template-manueldevjour/issues/1) in [manueldevjour/cra-template-manueldevjour](https://github.com/manueldevjour/cra-template-manueldevjour)
-4. 🎉 Merged PR [#1](https://github.com/manueldevjour/manuelcerezo.com/pull/1) in [manueldevjour/manuelcerezo.com](https://github.com/manueldevjour/manuelcerezo.com)
-5. 💪 Opened PR [#1](https://github.com/manueldevjour/manuelcerezo.com/pull/1) in [manueldevjour/manuelcerezo.com](https://github.com/manueldevjour/manuelcerezo.com)
-<!--END_SECTION:activity-->
-
-<br>
-
 ## Metrics
 
 ![Metrics](./github-metrics.svg)
