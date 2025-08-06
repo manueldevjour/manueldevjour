@@ -4,4 +4,4 @@
 
 - 🔭 Currently living in **Barcelona, Spain**
 
-- 👯 I’m looking to collaborate on frontend projects, so if you need help and think I'm your guy, hit me up. 👇🏻
+![Manuel's github stats](https://github-readme-stats.vercel.app/api?username=manueldevjour&show_icons=true)
